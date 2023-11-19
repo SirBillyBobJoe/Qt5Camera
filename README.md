@@ -87,7 +87,7 @@ This application serves as a powerful tool for capturing and manipulating images
   - **Usage:** Select this option to close the application and exit.
 
 
-##Screenshots:
+## 6. Screenshots:
 Here are some screenshots demonstrating the platform's interface:
 
 ![Main Interface](images/image.png)
