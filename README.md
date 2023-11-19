@@ -9,10 +9,32 @@ This application serves as a powerful tool for capturing and manipulating images
 ### Running the Application
 
 - Navigate to the folder where the application is stored.
+- Locate the folder named `release`.
 - Locate the executable file named `runCamera.exe`.
 - Double-click `runCamera.exe` to run the application.
+- 
+## 3. Zoom and Camera Movement
 
-## 3. UI Components
+### Zoom Functionality
+
+- **Single Click:**
+  - **Functionality:** Zooms in.
+  - **Usage:** Click once on the camera feed to zoom in. This provides a closer view of the area where you clicked.
+
+- **Double Click:**
+  - **Functionality:** Zooms out.
+  - **Usage:** Double-click anywhere on the camera feed to zoom out. This action restores the camera to its original zoom level.
+
+### Camera Movement
+
+- **Dragging (When Zoomed In):**
+  - **Functionality:** Moves the camera view.
+  - **Usage:** When zoomed in, click and drag to move around within the zoomed area. This allows you to explore different parts of the zoomed-in image without needing to zoom out and in again.
+
+
+### Single Click
+
+## 4. UI Components
 
 ### Buttons
 
@@ -36,7 +58,7 @@ This application serves as a powerful tool for capturing and manipulating images
   - **Functionality:** Switch between available cameras.
   - **Usage:** Click this button to toggle between different camera feeds (if multiple cameras are available).
 
-## 4. Menu Options
+## 5. Menu Options
 
 ### F Menu
 
