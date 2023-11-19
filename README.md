@@ -9,6 +9,7 @@ This application serves as a powerful tool for capturing and manipulating images
 ### Running the Application
 
 - Navigate to the folder where the application is stored.
+- Locate the folder named `release`.
 - Locate the executable file named `runCamera.exe`.
 - Double-click `runCamera.exe` to run the application.
 
